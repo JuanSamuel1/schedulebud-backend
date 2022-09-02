@@ -1,0 +1,26 @@
+{
+  "name": "schedulebud-backend",
+  "version": "1.0.0",
+  "description": "Schedule Bud application - backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanSamuel1/schedulebud-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanSamuel1/schedulebud-backend/issues"
+  },
+  "homepage": "https://github.com/JuanSamuel1/schedulebud-backend#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
